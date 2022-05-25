@@ -1,2 +1,2 @@
-pwd -P
+readlink 0-current_working_directory
 #!/bin/bash
